@@ -3,6 +3,16 @@ languageCode = "en-us"
 title = "Thaddeus Anderson"
 theme = "nix"
 
+[menu]
+  [[menu.header]]
+    name = "post"
+    weight = 0
+    url = "/post"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
 [params]
   Name = "Thaddeus Anderson"
   HeadUsername = "thaddeus"
