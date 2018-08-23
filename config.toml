@@ -1,0 +1,18 @@
+baseURL = "http://thad.ws"
+languageCode = "en-us"
+title = "Thaddeus Anderson"
+theme = "nix"
+
+[params]
+  Name = "Thaddeus Anderson"
+  HeadUsername = "thaddeus"
+  HeaderHostname = "thaddeus"
+  #ProfilePicture = "http://localhost:1313/profile.jpg"
+  Extra = "thadandlaura.com"
+  WorkTitle = "Senior Consulting Engineer"
+  Employer = "Advanced Network Management"
+  EmployerSite = "http://www.anm.com"
+  #GithubID = "thaddeusa"
+  #TwitterID = "thaddeusa"
+  #LinkedInID = "thaddeusa"
+  About = "I’m an IT professional with a passion for [automating] the cloud. I love proactively finding solutions to problems and automating my way out of repetitive tasks. I like to stay ahead of things, but you’ll never find me running from a good firefight. My experience ranges from Platform/Automation Engineer to Solutions Architect to IT Manager to Consultant. I’m currently a Senior Consulting Engineer for Advanced Network Management, architecting solutions and automating them, primarily on the AWS cloud. My automation toolkit includes terraform, CloudFormation, Concourse CI pipeline, and shell scripting. I am an AWS Certified Solutions Architect Associate."
