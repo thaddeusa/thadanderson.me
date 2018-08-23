@@ -13,6 +13,7 @@ from = "http://thadandersonme.netlify.com/*"
 to = "http://www.thadanderson.me/:splat"
 status = 301
 
+[[redirects]]
 from = "https://thadandersonme.netlify.com/*"
 to = "http://www.thadanderson.me/:splat"
 status = 301
