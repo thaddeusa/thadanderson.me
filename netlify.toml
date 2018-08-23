@@ -10,7 +10,11 @@ HUGO_ENABLEGITINFO = "true"
 [[redirects]]
 # Redirect default Netlify subdomain to primary domain
 from = "http://thadandersonme.netlify.com/*"
-to = "http://www.thadanderson.me/"
+to = "http://www.thadanderson.me/:splat"
+status = 301
+
+from = "https://thadandersonme.netlify.com/*"
+to = "http://www.thadanderson.me/:splat"
 status = 301
 
 #
