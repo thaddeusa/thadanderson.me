@@ -1,27 +1,11 @@
-baseURL = "http://thad.ws"
+baseURL = "http://thadanderson.me"
 languageCode = "en-us"
 title = "Thaddeus Anderson"
 theme = "nix"
 
-[menu]
-  [[menu.header]]
-    name = "post"
-    weight = 0
-    url = "/post"
-  [[menu.header]]
-    name = "about"
-    weight = 1
-    url = "/about"
-
 [params]
   Name = "Thaddeus Anderson"
-  HeadUsername = "thaddeus"
-  HeaderHostname = "thaddeus"
-  #ProfilePicture = "http://localhost:1313/profile.jpg"
   Extra = "thadandlaura.com"
-  WorkTitle = "Senior Consulting Engineer"
-  Employer = "Advanced Network Management"
-  EmployerSite = "http://www.anm.com"
   #GithubID = "thaddeusa"
   #TwitterID = "thaddeusa"
   #LinkedInID = "thaddeusa"
