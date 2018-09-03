@@ -11,4 +11,4 @@ http://thad.ws http://www.thadanderson.me 301!
 https://thadanderson.me https://www.thadanderson.me 301!
 
 # cloudjango.com redirect testing
-http://cloudjango.com http://www.thadanderson.me 301!
+http://cloudjango.com/* http://www.thadanderson.me 301!
