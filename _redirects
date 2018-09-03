@@ -1,0 +1,7 @@
+# Redirect default Netlify subdomain to primary domain
+https://thadandersonme.netlify.com/* https://www.thadanderson.me/:splat 301!
+
+# Redirect domain aliases to primary domain
+https://www.thad.ws/* https://www.thadanderson.me/:splat 301!
+https://thad.ws/* https://www.thadanderson.me/:splat 301!
+https://thadanderson.me/* https://www.thadanderson.me/:splat 301!

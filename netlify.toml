@@ -7,23 +7,23 @@ HUGO_VERSION = "0.47.1"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
-[[redirects]]
-# Redirect default Netlify subdomain to primary domain
-from = "https://thadandersonme.netlify.com"
-to = "https://www.thadanderson.me"
-status = 301
-
-[[redirects]]
-# Redirect default Netlify subdomain to primary domain
-from = "https://thadanderson.me"
-to = "https://www.thadanderson.me"
-status = 301
-
-[[redirects]]
-# Redirect default Netlify subdomain to primary domain
-from = "http://www.thad.ws"
-to = "https://www.thadanderson.me"
-status = 301
+# [[redirects]]
+# # Redirect default Netlify subdomain to primary domain
+# from = "https://thadandersonme.netlify.com"
+# to = "https://www.thadanderson.me"
+# status = 301
+#
+# [[redirects]]
+# # Redirect default Netlify subdomain to primary domain
+# from = "https://thadanderson.me"
+# to = "https://www.thadanderson.me"
+# status = 301
+#
+# [[redirects]]
+# # Redirect default Netlify subdomain to primary domain
+# from = "http://www.thad.ws"
+# to = "https://www.thadanderson.me"
+# status = 301
 
 
 #
