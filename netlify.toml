@@ -21,7 +21,7 @@ status = 301
 
 [[redirects]]
 # Redirect default Netlify subdomain to primary domain
-from = "https://www.thad.ws"
+from = "http://www.thad.ws"
 to = "https://www.thadanderson.me"
 status = 301
 
