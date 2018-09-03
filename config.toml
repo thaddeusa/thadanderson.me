@@ -2,6 +2,7 @@ baseURL = "http://thadanderson.me"
 languageCode = "en-us"
 title = "Thaddeus Anderson"
 theme = "nix"
+HUGO_VERSION = 0.47.1
 
 [params]
   Name = "Thaddeus Anderson"
