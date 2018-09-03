@@ -2,6 +2,6 @@
 https://thadandersonme.netlify.com/* https://www.thadanderson.me/:splat 301!
 
 # Redirect domain aliases to primary domain
-http://www.thad.ws/* http://www.thadanderson.me/:splat 301!
-http://thad.ws/* http://www.thadanderson.me/:splat 301!
-https://thadanderson.me/* https://www.thadanderson.me/:splat 301!
+http://www.thad.ws http://www.thadanderson.me/:splat 301!
+http://thad.ws http://www.thadanderson.me/:splat 301!
+https://thadanderson.me https://www.thadanderson.me/:splat 301!
