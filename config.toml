@@ -2,6 +2,7 @@ baseURL = "http://thadanderson.me"
 languageCode = "en-us"
 title = "Thaddeus Anderson"
 theme = "nix"
+googleAnalytics = "UA-125351911-1"
 
 [context.production.environment]
 HUGO_VERSION = "0.47.1"
