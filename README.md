@@ -1,2 +1,2 @@
 # thadanderson.me
-Content for thadanderson.me website. Huge-generated static site. 
+Content for thadanderson.me website. Hugo-generated static site. 
